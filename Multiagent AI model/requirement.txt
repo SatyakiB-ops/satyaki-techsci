@@ -1,0 +1,11 @@
+agno
+openai
+groq
+python-dotenv
+duckduckgo-search
+pypdf
+lancedb
+pandas
+tantivy
+requests
+aiohttp>=3.9.0,<4.0
